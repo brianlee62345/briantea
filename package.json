@@ -1,0 +1,10 @@
+{
+
+  "name": "@brianlee62345/benbentea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@brianlee62345",
+  "repository": "https://github.com/brianlee62345/briantea.git",
+  "license": "ISC"
+}
